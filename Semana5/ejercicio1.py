@@ -14,7 +14,6 @@ def contar_ciclo(n):
     lista = []
     for i in range(1, n + 1):
         lista.append(i)
-
     return lista
 print(contar_ciclo(5))
 
